@@ -105,3 +105,8 @@ docs/_build/
 target/
 
 
+
+### Vagrant template
+.vagrant/
+
+
